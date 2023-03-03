@@ -1,0 +1,134 @@
+[
+    {
+        "img1": "https://i.ibb.co/VBXVfrM/h-b1.jpg",
+        "img-h-body": "https://i.ibb.co/3hNrqmF/h-body.jpg",
+        "img-h-restaurant": "https://i.ibb.co/df570r7/h-restaurant.jpg"
+    },
+    [
+        {
+            "title": "WEEKEND OFFER BREAKFAST INCLUDED",
+            "img1": "https://i.ibb.co/0fXcNhR/h-promtions-2.jpg",
+            "text": "Book your weekend at a special rate with breakfast included, come to live the Golden experience with us."
+        },
+        {
+            "title": "SEMI-FLEXIBLE",
+            "img1": "https://i.ibb.co/LN1KDd4/h-promtions-3.jpg",
+            "text": "Travel stress-free: you can cancel up to three days before your stay without being charged."
+        },
+        {
+            "title": "SENIOR OFFER",
+            "img1": "https://i.ibb.co/26zRdJ5/offers-body-3.jpg",
+            "text": "– 10% on the daily rate, for all people over the age of 60 in Golden Tulip hotels!"
+        }
+    ],
+    [
+        {
+            "title-h": "You have never slept so well.",
+            "img-h-1": "https://i.ibb.co/vzhxfRB/r-b-1.jpg",
+            "txt": "Our hotel has 395 rooms divided in 4 categories: Standard, Superior, Deluxe and Suites. All have balcony and are fully equipped. Our bathrooms have shower and bathtub, amenities, telephone and hairdryer."
+        }
+    ],
+    [
+        {
+            "title": "Standard Room",
+            "img1": "https://i.ibb.co/J5XZ3pY/standard-room-2.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!",
+            "people": "1",
+            "price": "80"
+        },
+        {
+            "title": "Standard Room",
+            "img1": "https://i.ibb.co/J5XZ3pY/standard-room-2.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!",
+            "people": "2",
+            "price": "80"
+        },
+        {
+            "title": "Deluxe Room",
+            "img1": "https://i.ibb.co/rFvQwQ4/deluxe-room-2.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!",
+            "people": "3",
+            "price": "100"
+        },
+        {
+            "title": "Deluxe Room",
+            "img1": "https://i.ibb.co/rFvQwQ4/deluxe-room-2.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!",
+            "people": "4",
+            "price": "100"
+        },
+        {
+            "title": "Superior Room",
+            "img1": "https://i.ibb.co/f1mNmpb/superior-room-2.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!",
+            "people": "5",
+            "price": "130"
+        },
+        {
+            "title": "Suite",
+            "img1": "https://i.ibb.co/grbsNvT/suit-2.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!",
+            "people": "6",
+            "price": "150"
+        },
+        {
+            "title": "Suite",
+            "img1": "https://i.ibb.co/grbsNvT/suit-2.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!",
+            "people": "7",
+            "price": "150"
+        },
+        {
+            "title": "Suite",
+            "img1": "https://i.ibb.co/grbsNvT/suit-2.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!",
+            "people": "8",
+            "price": "150"
+        }
+    ],
+    [
+        {
+            "res-h1": "Immerse yourself in a new world of flavors.",
+            "img-res-1": "https://i.ibb.co/S7SbRSG/res-b-1.jpg",
+            "res-h-text": "The Herbs restaurant is specialized in International cuisine. At the Capitao Bar, guests can taste sandwiches, snacks and drinks. At night, The Old Barr is the ideal place to relax listening to jazz, blues or rock music."
+        },
+        {
+            "res-b-p": "Herbs Restaurant",
+            "img-res-b1": "https://i.ibb.co/3Ch745J/res-body-herbs.jpg",
+            "res-b-text": "Have a good impression of gastronomy. On Saturdays, our guests may enjoy a delicous feijoada. Come and delight! You won't regret it!"
+        }
+    ],
+    [
+        {
+            "title-h": "Our services",
+            "img-h-1": "https://i.ibb.co/KsRNtPq/ser-b1.jpg",
+            "txt": "A great experience! After a busy day (or not) guests can relax at the swimmingpools facing the Paranoá Lake or exercice at the hotel fitness center. And for those who loves massages, the Spa is the ideal choice."
+        }
+    ],
+    [
+        {
+            "title": "Swimming Pool",
+            "short": "short write here",
+            "img1": "https://i.ibb.co/yBTKTNY/ser-body-spa.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!"
+        },
+        {
+            "title": "Spa",
+            "short": "short write here",
+            "img1": "https://i.ibb.co/y48DD0V/ser-body-spa1.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!"
+        },
+        {
+            "title": "Fitness",
+            "short": "short write here",
+            "img1": "https://i.ibb.co/St4JJCD/ser-body-fitness.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!"
+        },
+        {
+            "title": "Kids",
+            "short": "short write here",
+            "img1": "https://i.ibb.co/j8GDfvm/ser-doby-kids.jpg",
+            "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, doloremque! Blanditiis doloremque excepturi quibusdam, qui, odit nisi deleniti maiores officia aliquid laboriosam non culpa consectetur fugit laudantium ut natus! Vitae!"
+        }
+    ]
+]
