@@ -158,22 +158,16 @@ async function run() {
         });
 
         app.get('/foodreviews', async (req, res) => {
-            // const email = req.query.email;
-            // console.log(email);
             const query = { category: "food" };
             const allreviews = await reviews.find(query).toArray();
             res.send(allreviews);
         });
         app.get('/environmentreviews', async (req, res) => {
-            // const email = req.query.email;
-            // console.log(email);
             const query = { category: "environment" };
             const allreviews = await reviews.find(query).toArray();
             res.send(allreviews);
         });
         app.get('/hospitaliltyreviews', async (req, res) => {
-            // const email = req.query.email;
-            // console.log(email);
             const query = { category: "hospitality" };
             const allreviews = await reviews.find(query).toArray();
             res.send(allreviews);
@@ -197,53 +191,6 @@ async function run() {
             const allreviews = await booking.find(query).toArray();
             res.send(allreviews);
         });
-
-
-
-        // -------------------------- Data from another server---------------------------
-
-        // Delete Product from Buyer's product
-        // app.delete('/BuyerProduct/:id', async (req, res) => {
-        //     const id = req.params.id;
-        //     // console.log(id);
-        //     const query = { _id: ObjectId(id) };
-        //     // console.log(query);
-        //     const user = await allBooking.deleteOne(query);
-        //     res.send(user);
-        // });
-
-        // app.put('/user/verify/:id', async (req, res) => {
-        //     const id = req.params.id;
-        //     const query = { _id: ObjectId(id) };
-        //     const options = { upsert: true };
-        //     const updatedDoc = {
-        //         $set: {
-        //             status: 'Verified'
-        //         }
-        //     }
-        //     const updatedUser = await userColl.updateOne(query, updatedDoc, options,);
-        //     res.send(updatedUser);
-        // })
-
-        // Seller Product Gets Based On email
-        // app.get('/sellerProductsByEmail', async (req, res) => {
-        //     email = req.query.email;
-        //     // console.log(email);
-        //     const query = { userEmail: email };
-        //     const product = await allInfo.find(query).toArray();
-        //     res.send(product);
-        // });
-
-        // Seller Added Product 
-        // app.post('/allProducts', async (req, res) => {
-        //     const product = req.body;
-        //     const result = await allInfo.insertOne(product);
-        //     res.send(result);
-        // });
-
-
-
-
 
     }
     finally {
